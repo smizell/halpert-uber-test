@@ -1,0 +1,15 @@
+{
+  "name": "hyperdescribe-uber-test",
+  "version": "0.0.1",
+  "description": "UBER to HAL test",
+  "main": "index.js",
+  "dependencies": {
+    "hyperdescribe-uber-json": "0.0.4",
+    "hyperdescribe-hal-json": "0.0.2",
+    "halpert": "~0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smizell/halpert-uber-test.git"
+  }
+}
