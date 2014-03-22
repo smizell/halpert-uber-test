@@ -1,4 +1,4 @@
-var uberDoc = require('./exampel.uber'),
+var uberDoc = require('./example.uber'),
     Halpert = require('halpert'),
     HyperdescribeUberJson = require('hyperdescribe-uber-json'),
     HyperdescribeHalJson = require('hyperdescribe-hal-json'),
